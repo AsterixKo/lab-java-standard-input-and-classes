@@ -6,7 +6,7 @@ public class Employee {
     private int age;
     private int salary;
 
-    Employee() {
+    public Employee() {
 
     }
 

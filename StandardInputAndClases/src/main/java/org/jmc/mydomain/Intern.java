@@ -3,7 +3,7 @@ package org.jmc.mydomain;
 public class Intern extends Employee {
     private final int SALARY_LIMIT = 20000;
 
-    Intern() {
+    public Intern() {
         super();
     }
 
